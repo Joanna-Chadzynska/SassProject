@@ -29,7 +29,7 @@ A simple website designed using the Sass preprocessor. The project was created a
 
 ## Link
 
-https://joanna-chadzynska.github.io/SassProject/
+https://condescending-dubinsky-94ea6b.netlify.com/
 
 ## Status
 
